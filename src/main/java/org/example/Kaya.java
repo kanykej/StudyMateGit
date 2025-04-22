@@ -5,5 +5,6 @@ public class Kaya {
         System.out.println("it's Kaya");
         System.out.println("kayaa");
         System.out.println("k");
+        System.out.println("hi");
     }
 }

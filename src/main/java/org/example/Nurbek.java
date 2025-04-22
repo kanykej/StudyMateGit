@@ -2,6 +2,6 @@ package org.example;
 
 public class Nurbek {
     public static void main(String[] args) {
-        System.out.println("testing");
+        System.out.println("hello world");
     }
 }

@@ -4,6 +4,8 @@ public class hello {
         System.out.println("good evening!");
         for (int i = 0; i < 2; i++) {
             System.out.println("hello");
+            String str="apple";
+            System.out.println(str.charAt(1));
         }
     }
 }

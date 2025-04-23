@@ -1,7 +1,11 @@
 package org.example;
 
+import java.util.Scanner;
+
 public class Aigerim {
     public static void main(String[] args) {
-        System.out.println("Hi! This is a message from Aigerim's Branch");
+
+        Scanner scanner = new Scanner(System.in);
+
     }
 }

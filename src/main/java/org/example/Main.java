@@ -8,10 +8,9 @@ public class Main {
             System.out.println("Let's find out!");
         }
 
-
-//        for (int i = 0; i < 10; i++) {
-//            System.out.println("hello, arigato, salam");
-//        }
+        for (int i = 0; i < 10; i++) {
+            System.out.println("hello, arigato, salam");
+        }
 
     }
 }
